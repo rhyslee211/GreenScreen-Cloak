@@ -36,10 +36,6 @@
   <p align="center">
     A simple OpenCV project that allows users to capture a background image, input a color and have that color "cloak" them in the video capture.
     <br />
-    <a href="https://github.com/rhyslee211/GreenScreen-Cloak"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/rhyslee211/GreenScreen-Cloak">View Demo</a>
   </p>
 </div>
 
